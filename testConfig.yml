@@ -20,6 +20,8 @@ spring:
     publisher-confirms: true
   redis:
     host: 192.168.19.121
+  profiles:
+      active: dev
 eureka:
   client:
     service-url:
