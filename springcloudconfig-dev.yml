@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-client
+    name: service-feign2
 
 server:
   port: 8881
