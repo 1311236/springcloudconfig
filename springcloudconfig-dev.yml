@@ -1,2 +1,6 @@
-shabi:
-   陈应光
+spring:
+  application:
+    name: config-client
+
+server:
+  port: 8881
